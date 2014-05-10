@@ -1,0 +1,426 @@
+PARLIAMENTARY CONSTITUENCY WISE - VOTER STATISTICS 
+
+AS OF 26-03-2014 
+
+PC 
+NO
+
+PC NAME
+
+Dist 
+No
+
+District  Assembly Constituency  Male Female Others  Total
+
+1 Chikkodi                                                    1 BELGAUM 1-Nippani  100947 95906 5 196858
+1 Chikkodi                                                    1 BELGAUM 2-Chikkodi-Sadalga  98568 92835 10 191413
+1 Chikkodi                                                    1 BELGAUM 3-Athani  101967 94088 7 196062
+1 Chikkodi                                                    1 BELGAUM 4-Kagwad  88919 82040 13 170972
+1 Chikkodi                                                    1 BELGAUM 5-Kudachi  82903 75034 9 157946
+1 Chikkodi                                                    1 BELGAUM 6-Raybag  90464 81120 5 171589
+1 Chikkodi                                                    1 BELGAUM 7-Hukkeri  91710 88803 5 180518
+1 Chikkodi                                                    1 BELGAUM 10-Yemkanamardi  85529 84614 9 170152
+Chikkodi                                                     Total 741007 694440 63 1435510
+2 Belgaum                                                     1 BELGAUM 8-Arabhavi  103185 99061 8 202254
+2 Belgaum                                                     1 BELGAUM 9-Gokak  105362 103511 9 208882
+2 Belgaum                                                     1 BELGAUM 11-Belgaum Uttar  106486 104661 38 211185
+2 Belgaum                                                     1 BELGAUM 12-Belgaum Dakshin  109891 104603 64 214558
+2 Belgaum                                                     1 BELGAUM 13-Belgaum Rural  109439 104324 18 213781
+2 Belgaum                                                     1 BELGAUM 16-Bailahongal  86458 83113 6 169577
+2 Belgaum                                                     1 BELGAUM 17-Saundatti Yellamma  88650 85595 0 174245
+2 Belgaum                                                     1 BELGAUM 18-Ramdurg  93712 86923 8 180643
+Belgaum                                                      Total 803183 771791 151 1575125
+3 Bagalkot                                                    2 BAGALKOT 19-Mudhol  88945 87588 10 176543
+3 Bagalkot                                                    2 BAGALKOT 20-Terdal  104247 101009 17 205273
+3 Bagalkot                                                    2 BAGALKOT 21-Jamkhandi  93994 91322 12 185328
+3 Bagalkot                                                    2 BAGALKOT 22-Bilgi  101433 100027 27 201487
+3 Bagalkot                                                    2 BAGALKOT 23-Badami  102734 100379 12 203125
+3 Bagalkot                                                    2 BAGALKOT 24-Bagalkot  108422 106239 17 214678
+3 Bagalkot                                                    2 BAGALKOT 25-Hungund  101045 100907 8 201960
+3 Bagalkot                                                    8 GADAG 68-Nargund  90298 87081 4 177383
+Bagalkot                                                     Total 791118 774552 107 1565777
+4 Bijapur                                                     3 BIJAPUR 26-Muddebihal  96008 87674 33 183715
+
+Page 1 of 10
+
+PARLIAMENTARY CONSTITUENCY WISE - VOTER STATISTICS 
+
+AS OF 26-03-2014 
+
+PC 
+NO
+
+PC NAME
+
+Dist 
+No
+
+District  Assembly Constituency  Male Female Others  Total
+
+4 Bijapur                                                     3 BIJAPUR 27-Devara Hippargi  98568 87993 13 186574
+4 Bijapur                                                     3 BIJAPUR 28-Basavana  Bagevadi  95310 87778 13 183101
+4 Bijapur                                                     3 BIJAPUR 29-Babaleshwar  99615 94315 11 193941
+4 Bijapur                                                     3 BIJAPUR 30-Bijapur City  120304 114320 45 234669
+4 Bijapur                                                     3 BIJAPUR 31-Nagthan  123680 112768 26 236474
+4 Bijapur                                                     3 BIJAPUR 32-Indi  109944 98129 19 208092
+4 Bijapur                                                     3 BIJAPUR 33-Sindgi  103524 91463 17 195004
+Bijapur                                                      Total 846953 774440 177 1621570
+5 Gulbarga                                                    4 GULBARGA 34-Afzalpur  104315 96253 9 200577
+5 Gulbarga                                                    4 GULBARGA 35-Jevargi  105502 102434 16 207952
+5 Gulbarga                                                    4 GULBARGA 40-Chittapur  104028 100987 23 205038
+5 Gulbarga                                                    4 GULBARGA 41-Sedam  98160 97919 18 196097
+5 Gulbarga                                                    4 GULBARGA 43-Gulbarga Rural  116516 107675 14 224205
+5 Gulbarga                                                    4 GULBARGA 44-Gulbarga Dakshin  119183 116208 64 235455
+5 Gulbarga                                                    4 GULBARGA 45-Gulbarga Uttar  123500 115480 69 239049
+5 Gulbarga                                                    35 YADGIR 39-Gurmitkal  106879 106402 12 213293
+Gulbarga                                                     Total 878083 843358 225 1721666
+6 Raichur                                                     6 RAICHUR 53-Raichur Rural  103006 104922 66 207994
+6 Raichur                                                     6 RAICHUR 54-Raichur  103930 100751 81 204762
+6 Raichur                                                     6 RAICHUR 55-Manvi  106768 107692 78 214538
+6 Raichur                                                     6 RAICHUR 56-Devadurga  98318 97934 22 196274
+6 Raichur                                                     6 RAICHUR 57-Lingsugur  105148 101755 7 206910
+6 Raichur                                                     35 YADGIR 36-Shorapur  117962 113870 30 231862
+6 Raichur                                                     35 YADGIR 37-Shahapur  99658 97617 16 197291
+6 Raichur                                                     35 YADGIR 38-Yadgir  101001 100720 10 201731
+Raichur                                                      Total 835791 825261 310 1661362
+7 Bidar                                                       4 GULBARGA 42-Chincholi  93122 87207 7 180336
+7 Bidar                                                       4 GULBARGA 46-Aland  107895 96518 10 204423
+
+Page 2 of 10
+
+PARLIAMENTARY CONSTITUENCY WISE - VOTER STATISTICS 
+
+AS OF 26-03-2014 
+
+PC 
+NO
+
+PC NAME
+
+Dist 
+No
+
+District  Assembly Constituency  Male Female Others  Total
+
+7 Bidar                                                       5 BIDAR 47-Basavakalyan  110315 98292 8 208615
+7 Bidar                                                       5 BIDAR 48-Humnabad  115088 103630 7 218725
+7 Bidar                                                       5 BIDAR 49-Bidar South  97108 89060 7 186175
+7 Bidar                                                       5 BIDAR 50-Bidar  102435 94261 15 196711
+7 Bidar                                                       5 BIDAR 51-Bhalki  110343 98858 3 209204
+7 Bidar                                                       5 BIDAR 52-Aurad  102077 93599 13 195689
+Bidar                                                        Total 838383 761425 70 1599878
+8 Koppal                                                      6 RAICHUR 58-Sindhanur  103349 103498 20 206867
+8 Koppal                                                      6 RAICHUR 59-Maski  86501 86273 15 172789
+8 Koppal                                                      7 KOPPAL 60-Kushtagi  102317 99580 7 201904
+8 Koppal                                                      7 KOPPAL 61-Kanakagiri  95031 96103 11 191145
+8 Koppal                                                      7 KOPPAL 62-Gangavathi  89864 89832 7 179703
+8 Koppal                                                      7 KOPPAL 63-Yelburga  95421 91796 6 187223
+8 Koppal                                                      7 KOPPAL 64-Koppal  109089 107109 14 216212
+8 Koppal                                                      12 BELLARY 92-Siraguppa  88527 90441 15 178983
+Koppal                                                       Total 770099 764632 95 1534826
+9 Bellary                                                     12 BELLARY 88-Hadagali  85984 82147 9 168140
+9 Bellary                                                     12 BELLARY 89-Hagaribommanahalli  99001 95874 18 194893
+9 Bellary                                                     12 BELLARY 90-Vijayanagara  91789 90474 36 182299
+9 Bellary                                                     12 BELLARY 91-Kampli  94562 94306 16 188884
+9 Bellary                                                     12 BELLARY 93-Bellary  93416 94501 23 187940
+9 Bellary                                                     12 BELLARY 94-Bellary City  102585 103731 10 206326
+9 Bellary                                                     12 BELLARY 95-Sandur  92551 89032 32 181615
+9 Bellary                                                     12 BELLARY 96-Kudligi  90699 86856 9 177564
+Bellary                                                      Total 750587 736921 153 1487661
+10 Haveri                                                      8 GADAG 65-Shirahatti  99603 94074 5 193682
+10 Haveri                                                      8 GADAG 66-Gadag  101595 99407 18 201020
+10 Haveri                                                      8 GADAG 67-Ron  106101 103463 13 209577
+
+Page 3 of 10
+
+PARLIAMENTARY CONSTITUENCY WISE - VOTER STATISTICS 
+
+AS OF 26-03-2014 
+
+PC 
+NO
+
+PC NAME
+
+Dist 
+No
+
+District  Assembly Constituency  Male Female Others  Total
+
+10 Haveri                                                      11 HAVERI 82-Hangal  96076 85361 5 181442
+10 Haveri                                                      11 HAVERI 84-Haveri  108376 98354 10 206740
+10 Haveri                                                      11 HAVERI 85-Byadgi  98171 90081 7 188259
+10 Haveri                                                      11 HAVERI 86-Hirekerur  88137 79693 6 167836
+10 Haveri                                                      11 HAVERI 87-Ranebennur  108280 100966 13 209259
+Haveri                                                       Total 806339 751399 77 1557815
+11 Dharwad                                                     9 DHARWAD                                           69-Navalgund  96368 91361 9 187738
+11 Dharwad                                                     9 DHARWAD                                           70-Kundgol  90246 83099 4 173349
+11 Dharwad                                                     9 DHARWAD                                           71-Dharwad  97820 94496 6 192322
+11 Dharwad                                                     9 DHARWAD                                           72-Hubli-Dharwad-East  95985 94126 4 190115
+11 Dharwad                                                     9 DHARWAD                                           73-Hubli-Dharwad-Central  114695 112988 28 227711
+11 Dharwad                                                     9 DHARWAD                                           74-Hubli-Dharwad-West  118641 117413 26 236080
+11 Dharwad                                                     9 DHARWAD                                           75-Kalaghatgi  90234 83513 7 173754
+11 Dharwad                                                     11 HAVERI 83-Shiggaon  103984 92087 4 196075
+Dharwad                                                      Total 807973 769083 88 1577144
+12 Uttara Kannada                                              1 BELGAUM 14-Khanapur  99105 90298 7 189410
+12 Uttara Kannada                                              1 BELGAUM 15-Kittur  88544 84330 5 172879
+12 Uttara Kannada                                              10 UTTARA KANNADA 76-Haliyal  82608 79019 3 161630
+12 Uttara Kannada                                              10 UTTARA KANNADA 77-Karwar  107274 106705 5 213984
+12 Uttara Kannada                                              10 UTTARA KANNADA 78-Kumta  87831 85127 0 172958
+12 Uttara Kannada                                              10 UTTARA KANNADA 79-Bhatkal  101678 96084 3 197765
+12 Uttara Kannada                                              10 UTTARA KANNADA 80-Sirsi  91294 88273 1 179568
+12 Uttara Kannada                                              10 UTTARA KANNADA 81-Yellapur  81195 76900 6 158101
+Uttara Kannada                                               Total 739529 706736 30 1446295
+13 Davanagere                                                  14 DAVANAGERE 103-Jagalur  88567 84622 13 173202
+13 Davanagere                                                  14 DAVANAGERE 104-Harapanahalli  97618 93480 19 191117
+13 Davanagere                                                  14 DAVANAGERE 105-Harihar  100719 99791 11 200521
+13 Davanagere                                                  14 DAVANAGERE 106-Davanagere North  113193 113710 21 226924
+
+Page 4 of 10
+
+PARLIAMENTARY CONSTITUENCY WISE - VOTER STATISTICS 
+
+AS OF 26-03-2014 
+
+PC 
+NO
+
+PC NAME
+
+Dist 
+No
+
+District  Assembly Constituency  Male Female Others  Total
+
+13 Davanagere                                                  14 DAVANAGERE 107-Davanagere South  96206 95474 25 191705
+13 Davanagere                                                  14 DAVANAGERE 108-Mayakonda  91574 86961 1 178536
+13 Davanagere                                                  14 DAVANAGERE 109-Channagiri  92389 88219 11 180619
+13 Davanagere                                                  14 DAVANAGERE 110-Honnali  91555 88154 5 179714
+Davanagere                                                   Total 771821 750411 106 1522338
+14 Shimoga                                                     15 SHIMOGA 111-Shimoga Rural  99332 97417 9 196758
+14 Shimoga                                                     15 SHIMOGA 112-Bhadravathi  104023 106749 7 210779
+14 Shimoga                                                     15 SHIMOGA 113-Shimoga  116368 116486 17 232871
+14 Shimoga                                                     15 SHIMOGA 114-Tirthahalli  87592 87620 4 175216
+14 Shimoga                                                     15 SHIMOGA 115-Shikaripura  89940 87099 14 177053
+14 Shimoga                                                     15 SHIMOGA 116-Sorab  90506 87013 10 177529
+14 Shimoga                                                     15 SHIMOGA 117-Sagar  92607 93150 6 185763
+14 Shimoga                                                     16 UDUPI 118-Baindur  97669 107635 15 205319
+Shimoga                                                      Total 778037 783169 82 1561288
+15 Udupi Chikkmagalur                                          16 UDUPI 119-Kundapur  89832 98691 6 188529
+15 Udupi Chikkmagalur                                          16 UDUPI 120-Udupi  92441 98327 17 190785
+15 Udupi Chikkmagalur                                          16 UDUPI 121-Kaup  77228 87338 3 164569
+15 Udupi Chikkmagalur                                          16 UDUPI 122-Karkala  79060 88589 1 167650
+15 Udupi Chikkmagalur                                          17 CHIKKMAGALUR 123-Sringeri  76572 77393 4 153969
+15 Udupi Chikkmagalur                                          17 CHIKKMAGALUR 124-Mudigere  78095 78833 8 156936
+15 Udupi Chikkmagalur                                          17 CHIKKMAGALUR 125-Chickamagalur  99670 97867 17 197554
+15 Udupi Chikkmagalur                                          17 CHIKKMAGALUR 126-Tarikere  85813 80704 7 166524
+Udupi Chikkmagalur                                           Total 678711 707742 63 1386516
+16 Hassan                                                      17 CHIKKMAGALUR 127-Kadur  95586 91773 7 187366
+16 Hassan                                                      25 HASSAN 193-Shravanabelagola  98146 97661 10 195817
+16 Hassan                                                      25 HASSAN 194-Arsikere  101721 101687 24 203432
+16 Hassan                                                      25 HASSAN 195-Belur  91958 88659 5 180622
+16 Hassan                                                      25 HASSAN 196-Hassan  99658 99704 19 199381
+
+Page 5 of 10
+
+PARLIAMENTARY CONSTITUENCY WISE - VOTER STATISTICS 
+
+AS OF 26-03-2014 
+
+PC 
+NO
+
+PC NAME
+
+Dist 
+No
+
+District  Assembly Constituency  Male Female Others  Total
+
+16 Hassan                                                      25 HASSAN 197-Holenarasipur  102529 100502 7 203038
+16 Hassan                                                      25 HASSAN 198-Arakalgud  105146 98054 11 203211
+16 Hassan                                                      25 HASSAN 199-Sakaleshpur  93565 93218 5 186788
+Hassan                                                       Total 788309 771258 88 1559655
+17 Dakshina Kannada                                            26 DAKSHINA KANNADA 200-Belthangady  101686 98996 4 200686
+17 Dakshina Kannada                                            26 DAKSHINA KANNADA 201-Moodabidri  87115 94134 9 181258
+17 Dakshina Kannada                                            26 DAKSHINA KANNADA 202-Mangalore City North  105683 109934 11 215628
+17 Dakshina Kannada                                            26 DAKSHINA KANNADA 203-Mangalore City South  104174 113246 9 217429
+17 Dakshina Kannada                                            26 DAKSHINA KANNADA 204-Mangalore  86385 88934 16 175335
+17 Dakshina Kannada                                            26 DAKSHINA KANNADA 205-Bantwal  100588 100838 7 201433
+17 Dakshina Kannada                                            26 DAKSHINA KANNADA 206-Puttur  94228 92075 6 186309
+17 Dakshina Kannada                                            26 DAKSHINA KANNADA 207-Sullia  93743 92266 6 186015
+Dakshina Kannada                                             Total 773602 790423 68 1564093
+18 Chitradurga                                                 13 CHITRADURGA 97-Molakalmuru  111215 106285 13 217513
+18 Chitradurga                                                 13 CHITRADURGA 98-Challakere  98939 96563 11 195513
+18 Chitradurga                                                 13 CHITRADURGA 99-Chitradurga  117809 117295 17 235121
+18 Chitradurga                                                 13 CHITRADURGA 100-Hiriyur  112757 111458 26 224241
+18 Chitradurga                                                 13 CHITRADURGA 101-Hosadurga  92571 87494 3 180068
+18 Chitradurga                                                 13 CHITRADURGA 102-Holalkere  107686 101337 4 209027
+18 Chitradurga                                                 18 TUMKUR 136-Sira  105747 102017 14 207778
+18 Chitradurga                                                 18 TUMKUR 137-Pavagada  97875 93778 3 191656
+Chitradurga                                                  Total 844599 816227 91 1660917
+19 Tumkur                                                      18 TUMKUR 128-Chikknayakanhalli  101924 100290 2 202216
+19 Tumkur                                                      18 TUMKUR 129-Tiptur  87010 89377 23 176410
+19 Tumkur                                                      18 TUMKUR 130-Turuvekere  89371 89891 4 179266
+19 Tumkur                                                      18 TUMKUR 132-Tumkur City  116400 115699 33 232132
+19 Tumkur                                                      18 TUMKUR 133-Tumkur Rural  92501 89959 12 182472
+19 Tumkur                                                      18 TUMKUR 134-Koratagere  95695 92702 21 188418
+
+Page 6 of 10
+
+PARLIAMENTARY CONSTITUENCY WISE - VOTER STATISTICS 
+
+AS OF 26-03-2014 
+
+PC 
+NO
+
+PC NAME
+
+Dist 
+No
+
+District  Assembly Constituency  Male Female Others  Total
+
+19 Tumkur                                                      18 TUMKUR 135-Gubbi  87382 85092 19 172493
+19 Tumkur                                                      18 TUMKUR 138-Madhugiri  93977 90756 4 184737
+Tumkur                                                       Total 764260 753766 118 1518144
+20 Mandya                                                      24 MANDYA 186-Malavalli  121285 117018 12 238315
+20 Mandya                                                      24 MANDYA 187-Maddur  100794 101912 6 202712
+20 Mandya                                                      24 MANDYA 188-Melukote  97129 97719 3 194851
+20 Mandya                                                      24 MANDYA 189-Mandya  116264 117571 31 233866
+20 Mandya                                                      24 MANDYA 190-Shrirangapattana  101997 103078 5 205080
+20 Mandya                                                      24 MANDYA 191-Nagamangala  103832 101786 10 205628
+20 Mandya                                                      24 MANDYA 192-Krishnarajpet  100026 95884 15 195925
+20 Mandya                                                      28 MYSORE 211-Krishnarajanagara  97276 95025 7 192308
+Mandya                                                       Total 838603 829993 89 1668685
+21 Mysore                                                      27 KODAGU 208-Madikeri  104326 106481 12 210819
+21 Mysore                                                      27 KODAGU 209-Virajpet  104280 104224 10 208514
+21 Mysore                                                      28 MYSORE 210-Piriyapatna  85926 81947 3 167876
+21 Mysore                                                      28 MYSORE 212-Hunsur  105511 101846 5 207362
+21 Mysore                                                      28 MYSORE 215-Chamundeshwari  130776 125041 27 255844
+21 Mysore                                                      28 MYSORE 216-Krishnaraja  113756 114599 19 228374
+21 Mysore                                                      28 MYSORE 217-Chamaraja  108617 106686 27 215330
+21 Mysore                                                      28 MYSORE 218-Narasimharaja  113202 113841 38 227081
+Mysore                                                       Total 866394 854665 141 1721200
+22 Chamarajnagar                                               28 MYSORE 213-Heggadadevankote  100713 97636 6 198355
+22 Chamarajnagar                                               28 MYSORE 214-Nanjangud  97871 93713 10 191594
+22 Chamarajnagar                                               28 MYSORE 219-Varuna  102922 97367 7 200296
+22 Chamarajnagar                                               28 MYSORE 220-T. Narasipur  92975 90492 4 183471
+22 Chamarajnagar                                               29 CHAMARAJNAGAR 221-Hanur  99418 94351 11 193780
+22 Chamarajnagar                                               29 CHAMARAJNAGAR 222-Kollegal  100659 98920 5 199584
+22 Chamarajnagar                                               29 CHAMARAJNAGAR 223-Chamarajanagar  96924 96236 7 193167
+
+Page 7 of 10
+
+PARLIAMENTARY CONSTITUENCY WISE - VOTER STATISTICS 
+
+AS OF 26-03-2014 
+
+PC 
+NO
+
+PC NAME
+
+Dist 
+No
+
+District  Assembly Constituency  Male Female Others  Total
+
+22 Chamarajnagar                                               29 CHAMARAJNAGAR 224-Gundlupet  97689 97593 11 195293
+Chamarajnagar                                                Total 789171 766308 61 1555540
+23 Bangalore Rural                                             18 TUMKUR 131-Kunigal  89544 87674 16 177234
+23 Bangalore Rural                                             23 RAMANAGARAM 182-Magadi  107340 102579 19 209938
+23 Bangalore Rural                                             23 RAMANAGARAM 183-Ramanagaram  96213 95031 29 191273
+23 Bangalore Rural                                             23 RAMANAGARAM 184-Kanakapura  107874 107456 16 215346
+23 Bangalore Rural                                             23 RAMANAGARAM 185-Channapatna  102066 106414 5 208485
+23 Bangalore Rural                                             31 B.B.M.P (CENTRAL) 154-Rajarajeshwarinagar  203506 182985 44 386535
+23 Bangalore Rural                                             34 BANGALORE URBAN 176-Bangalore South  266078 229439 81 495598
+23 Bangalore Rural                                             34 BANGALORE URBAN 177-Anekal  163045 142654 51 305750
+Bangalore Rural                                              Total 1135666 1054232 261 2190159
+24 Bangalore North                                             32 B.B.M.P(NORTH) 151-K.R. Pura  200976 179712 95 380783
+24 Bangalore North                                             32 B.B.M.P(NORTH) 156-Mahalakshmi Layout  138675 127600 35 266310
+24 Bangalore North                                             32 B.B.M.P(NORTH) 157-Malleshwaram  99575 96098 9 195682
+24 Bangalore North                                             32 B.B.M.P(NORTH) 158-Hebbal  117712 108968 17 226697
+24 Bangalore North                                             32 B.B.M.P(NORTH) 159-Pulakeshinagar  99979 96439 25 196443
+24 Bangalore North                                             34 BANGALORE URBAN 152-Byatarayanapura  193804 174393 54 368251
+24 Bangalore North                                             34 BANGALORE URBAN 153-Yeshwanthapura  199348 181983 39 381370
+24 Bangalore North                                             34 BANGALORE URBAN 155-Dasarahalli  209076 175291 91 384458
+Bangalore North                                              Total 1259145 1140484 365 2399994
+25 Bangalore Central                                           31 B.B.M.P (CENTRAL) 162-Shivajinagar  92200 88669 12 180881
+25 Bangalore Central                                           31 B.B.M.P (CENTRAL) 163-Shantinagar  101778 97874 28 199680
+25 Bangalore Central                                           31 B.B.M.P (CENTRAL) 164-Gandhinagar  109183 98968 7 208158
+25 Bangalore Central                                           31 B.B.M.P (CENTRAL) 165-Rajajinagar  99860 94682 15 194557
+25 Bangalore Central                                           31 B.B.M.P (CENTRAL) 168-Chamrajapet  103191 93784 14 196989
+25 Bangalore Central                                           32 B.B.M.P(NORTH) 160-Sarvagnanagar  155972 149209 31 305212
+25 Bangalore Central                                           32 B.B.M.P(NORTH) 161-C.V. RamannNagar  121806 108429 78 230313
+25 Bangalore Central                                           34 BANGALORE URBAN 174-Mahadevapura  225832 188839 114 414785
+
+Page 8 of 10
+
+PARLIAMENTARY CONSTITUENCY WISE - VOTER STATISTICS 
+
+AS OF 26-03-2014 
+
+PC 
+NO
+
+PC NAME
+
+Dist 
+No
+
+District  Assembly Constituency  Male Female Others  Total
+
+Bangalore Central                                            Total 1009822 920454 299 1930575
+26 Bangalore South                                             31 B.B.M.P (CENTRAL) 169-Chickpet  106694 98731 15 205440
+26 Bangalore South                                             33 B.B.M.P(SOUTH) 166-Govindarajanagar  137607 123186 48 260841
+26 Bangalore South                                             33 B.B.M.P(SOUTH) 167-Vijayanagar  141678 126809 93 268580
+26 Bangalore South                                             33 B.B.M.P(SOUTH) 170-Basavanagudi  114750 107009 33 221792
+26 Bangalore South                                             33 B.B.M.P(SOUTH) 171-Padmanabanagar  126917 118215 14 245146
+26 Bangalore South                                             33 B.B.M.P(SOUTH) 172-B.T.M Layout  128449 114410 21 242880
+26 Bangalore South                                             33 B.B.M.P(SOUTH) 173-Jayanagar  95572 91894 25 187491
+26 Bangalore South                                             33 B.B.M.P(SOUTH) 175-Bommanahalli  198917 167350 71 366338
+Bangalore South                                              Total 1050584 947604 320 1998508
+27 Chikkaballapur                                              19 CHIKKABALLAPUR 139-Gauribidanur  97998 96538 4 194540
+27 Chikkaballapur                                              19 CHIKKABALLAPUR 140-Bagepalli  91644 90669 8 182321
+27 Chikkaballapur                                              19 CHIKKABALLAPUR 141-Chikkaballapur  93288 90940 17 184245
+27 Chikkaballapur                                              22 BANGALORE RURAL 178-Hosakote  99402 95744 13 195159
+27 Chikkaballapur                                              22 BANGALORE RURAL 179-Devanahalli  96964 94324 12 191300
+27 Chikkaballapur                                              22 BANGALORE RURAL 180-Doddaballapur  98620 94602 12 193234
+27 Chikkaballapur                                              22 BANGALORE RURAL 181-Nelamangala  97790 94973 18 192781
+27 Chikkaballapur                                              34 BANGALORE URBAN 150-Yelahanka  167825 156598 36 324459
+Chikkaballapur                                               Total 843531 814388 120 1658039
+28 Kolar                                                       19 CHIKKABALLAPUR 142-Sidlaghatta  92697 90604 9 183310
+28 Kolar                                                       19 CHIKKABALLAPUR 143-Chintamani  98246 96938 25 195209
+28 Kolar                                                       20 KOLAR 144-Srinivasapur  99047 96822 8 195877
+28 Kolar                                                       20 KOLAR 145-Mulbagal  93775 90589 7 184371
+28 Kolar                                                       20 KOLAR 146-Kolar Gold Field  89264 87465 29 176758
+28 Kolar                                                       20 KOLAR 147-Bangarapet  90666 88438 23 179127
+28 Kolar                                                       20 KOLAR 148-Kolar  104447 102871 31 207349
+28 Kolar                                                       20 KOLAR 149-Malur  85641 83197 7 168845
+Kolar                                                        Total 753783 736924 139 1490846
+
+Page 9 of 10
+
+PARLIAMENTARY CONSTITUENCY WISE - VOTER STATISTICS 
+
+AS OF 26-03-2014 
+
+PC 
+NO
+
+PC NAME
+
+Grand Total
+
+Dist 
+No
+
+District  Assembly Constituency  Male Female Others  Total
+
+23555083 22612086 3957 46171126
+
+Page 10 of 10
+
+
