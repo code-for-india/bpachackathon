@@ -23,7 +23,7 @@ for i in xrange(len(sanitized)):
 
         pc_no = fullstring.split(',')[pointer]
         pointer += 1
-        t["PC Num"] = int(pc_no)
+        t["pc_no"] = int(pc_no)
 
         pc_name = ""
         if not fullstring.split(',')[pointer].isdigit():
@@ -32,13 +32,13 @@ for i in xrange(len(sanitized)):
         if not fullstring.split(',')[pointer].isdigit():
             pc_name  += " " + fullstring.split(',')[pointer]
             pointer += 1
-        t["PC Name"] = pc_name
+        t["pc_name"] = pc_name
 
         dist_no = ""
         if fullstring.split(',')[pointer].isdigit():
             dist_no = fullstring.split(',')[pointer]
             pointer += 1
-        t["District Num"] = int(dist_no)
+        t["dist_no"] = int(dist_no)
 
         district = ""
         if not fullstring.split(',')[pointer].isdigit():
@@ -47,7 +47,7 @@ for i in xrange(len(sanitized)):
         if '-' not in fullstring.split(',')[pointer]:
             district  += " " + fullstring.split(',')[pointer]
             pointer += 1
-        t["District Name"] = district
+        t["district"] = district
 
         assembly_constituency = ""
         if not fullstring.split(',')[pointer].isdigit():
@@ -56,43 +56,43 @@ for i in xrange(len(sanitized)):
         if not fullstring.split(',')[pointer].isdigit():
             assembly_constituency  += " " + fullstring.split(',')[pointer]
             pointer += 1
-        t["Assembly Constituency"] = assembly_constituency
+        t["assembly_constituency"] = assembly_constituency
 
         male = ""
         if fullstring.split(',')[pointer].isdigit():
             male = fullstring.split(',')[pointer]
             pointer += 1
         try:
-            t["Male"] = int(male)
+            t["male"] = int(male)
         except ValueError:
-            t["Male"] = male
+            t["male"] = male
 
         female = ""
         if fullstring.split(',')[pointer].isdigit():
             female = fullstring.split(',')[pointer]
             pointer += 1
         try:
-            t["Female"] = int(female)
+            t["female"] = int(female)
         except ValueError:
-            t["Female"] = female
+            t["female"] = female
 
         others = ""
         if fullstring.split(',')[pointer].isdigit():
             others = fullstring.split(',')[pointer]
             pointer += 1
         try:
-            t["Others"] = int(others)
+            t["others"] = int(others)
         except ValueError:
-            t["Others"] = others
+            t["others"] = others
 
         total = ""
         if fullstring.split(',')[pointer].isdigit():
             total = fullstring.split(',')[pointer]
             pointer += 1
         try:
-            t["Total"] = int(total)
+            t["total"] = int(total)
         except:
-            t["Total"] = total
+            t["total"] = total
 
         finaldata["assemblywise"].append(t)
 
