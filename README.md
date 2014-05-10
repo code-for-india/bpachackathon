@@ -23,3 +23,29 @@ Project Milestones and Progress
 | Porting project to AWS                      | Complete        |
 | Persisting data to backend MySQL db         | Complete        |
 | Exposing data through RESTful API           | Complete        |
+
+## Features
+
+### Voter Turnout Analysis on Assembly Constituency Data
+
+This analysis gives a voter turnout for both male and female. The turnout is available for each parliamentary constituency in every district.
+
+### Form 20 Data Analysis
+
+Form 20 gives a deeper view to the electoral data. CEOs publish Form 20 after the election. In this project, we have worked on the 2014 Form 20 data for Hebbal constituency. The data was provided by BPAC.
+
+### Constituency wise Data Analysis
+
+Each constituency can be divided into different parts. Each part have their own polling booth where the number of actual voter turnout and number of registered voters available. For the Hebbal constituency, we have crawled 212 PDFs for each part and gathered registered voter data (male and female) for each part.
+
+### Constituency wise Voter Data Analysis
+
+Along with the registered voter data, each PDF also gives detailed information (Name, Husband/Mother/Fathers Name, Address, Sex and Age) for each voter. We have scraped each PDF file and gathered detailed information on each voter. This data will be used later for anomaly detection by fuzzy matching.
+
+### Fuzzy Matching and Anomaly Detection
+
+Currently undergoing.
+
+### Chloropleth Visualization
+
+Chloropleth is a visulization which shows the density on a map based on pre-defined values. We are aiming to show a constituency wise chloropleth map which will demonstrate the voter turnout area by area.
