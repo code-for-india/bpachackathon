@@ -16,8 +16,8 @@ Project Milestones and Progress
 | Constituency wise Complete Data Gathering   | Complete        |
 | Constituency wise Complete Data Scraping    | Complete        |
 | Constituency wise Complete Data Analysis    | Complete        |
-| Constituency wise Voter Data Scraping       | In Progress     |
-| Constituency wise Voter Data Analysis       | In Progress     |
+| Constituency wise Voter Data Scraping       | Complete        |
+| Constituency wise Voter Data Analysis       | Complete        |
 | Fuzzy Matching and Anomaly Detection        | Incomplete      |
 | Chloropleth Visualization                   | In Progress     |
 | Porting project to AWS                      | Complete        |
