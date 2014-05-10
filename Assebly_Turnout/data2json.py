@@ -4,18 +4,26 @@ import collections
 
 datalist = []
 pdf2txt.main(["", "-M 40", "-ooutput.txt", "voterdata.pdf"])
-finaldata = []
+finaldata = {}
+finaldata["assemblywise"] = []
+finaldata["total"] = []
 
-infile = open('output_v2.txt').readlines()
-for i in xrange(len(infile)):
-    if infile[i].strip() and infile[i].strip().split()[0].isdigit():
-        fullstring = ','.join(w for w in infile[i].strip().split() if w)
+infile = open('output.txt').readlines()
+sanitized = []
+
+for line in infile:
+    if line.strip() and line.strip().split()[0].isdigit() and len(line.strip().split()) > 4:
+        sanitized.append(line.strip())
+
+for i in xrange(len(sanitized)):
+    if sanitized[i].strip() and sanitized[i].strip().split()[0].isdigit():
+        fullstring = ','.join(w for w in sanitized[i].strip().split() if w)
         pointer = 0
         t = collections.OrderedDict()
 
         pc_no = fullstring.split(',')[pointer]
         pointer += 1
-        t["PC Num"] = pc_no
+        t["PC Num"] = int(pc_no)
 
         pc_name = ""
         if not fullstring.split(',')[pointer].isdigit():
@@ -30,7 +38,7 @@ for i in xrange(len(infile)):
         if fullstring.split(',')[pointer].isdigit():
             dist_no = fullstring.split(',')[pointer]
             pointer += 1
-        t["District Num"] = dist_no
+        t["District Num"] = int(dist_no)
 
         district = ""
         if not fullstring.split(',')[pointer].isdigit():
@@ -54,43 +62,54 @@ for i in xrange(len(infile)):
         if fullstring.split(',')[pointer].isdigit():
             male = fullstring.split(',')[pointer]
             pointer += 1
-        t["Male"] = male
+        try:
+            t["Male"] = int(male)
+        except ValueError:
+            t["Male"] = male
 
         female = ""
         if fullstring.split(',')[pointer].isdigit():
             female = fullstring.split(',')[pointer]
             pointer += 1
-        t["Female"] = female
+        try:
+            t["Female"] = int(female)
+        except ValueError:
+            t["Female"] = female
 
         others = ""
         if fullstring.split(',')[pointer].isdigit():
             others = fullstring.split(',')[pointer]
             pointer += 1
-        t["Others"] = others
+        try:
+            t["Others"] = int(others)
+        except ValueError:
+            t["Others"] = others
 
         total = ""
         if fullstring.split(',')[pointer].isdigit():
             total = fullstring.split(',')[pointer]
             pointer += 1
-        t["Total"] = total
+        try:
+            t["Total"] = int(total)
+        except:
+            t["Total"] = total
 
-        finaldata.append(t)
+        finaldata["assemblywise"].append(t)
 
-
-# for line in infile:
-#     s = []
-#     if line.split():
-#         if line.split()[0].isdigit():
-#             for word in line.split():
-#                 if word:
-#                     s.append(word)
-#         datalist.append(','.join(w for w in s))
-
-# for line in datalist:
-#     if len(line.strip().split(',')) > 1:
-#         t = {"pc_no": line.strip().split(',')[0], "pc_name": line.strip().split(',')[1], "dist_no": line.strip().split(',')[2], "district": line.strip().split(',')[3], "assembly_constituency": line.strip().split(',')[4], "male": line.strip().split(',')[5], "female": line.strip().split(',')[6], "others": line.strip().split(',')[7], "total": line.strip().split(',')[8]}
-#         print ', '.join(w for w in t.values())
-#         finaldata.append(t)
+for line in infile:
+    try:
+        if not line.strip().split()[0].isdigit() and "Total" in line.strip() and line.strip().split()[-1].isdigit():
+            t = collections.OrderedDict()
+            t["PC Name"] = line.strip().split("Total")[0].strip()
+            t["Male"] = int(line.strip().split()[-4])
+            t["Female"] = int(line.strip().split()[-3])
+            t["Others"] = int(line.strip().split()[-2])
+            t["Total"] = int(line.strip().split()[-1])
+            finaldata["total"].append(t)
+            # print line.strip().split()
+            # print line.strip().split()[-4], line.strip().split()[-3], line.strip().split()[-2], line.strip().split()[-1]
+    except:
+        pass
 
 outfile = open('sanitized_data.json', 'w')
 outfile.write(json.dumps(finaldata, indent=4))
