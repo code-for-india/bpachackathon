@@ -23,6 +23,17 @@ Project Milestones and Progress
 | Porting project to AWS                      | Complete        |
 | Persisting data to backend MySQL db         | Complete        |
 | Exposing data through RESTful API           | Complete        |
+| Generating Insights from Form 20 data       | Complete        |
+
+## Insights
+
+These are some of the insights we gained from the 2014 Election Data for Hebbal Constituency -
+
+1. Showcases number of votes gained by the candidates in the Hebbal constituency [http://i.imgur.com/L7OmAKE.png]
+
+2. Number of votes each candidate got per booth in Hebbal Constituency (limited booth data shown for clarity) [http://i.imgur.com/xTvBAVo.png]
+
+3. Heatmap for candidates showing votes received per booth (Green refers to large vote count, Red refers to low vote count) [http://i.imgur.com/3cFE5pd.png]
 
 ## Chloropleth Visualization
 
