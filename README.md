@@ -65,7 +65,7 @@ Along with the registered voter data, each PDF also gives detailed information (
 
 ### Fuzzy Matching and Anomaly Detection
 
-Currently undergoing.
+Used "fuzzywuzzy" library in Python for fuzzy string matching of voter data and detecting anomalies such as multiple entires in a booth, multiple entries across booths etc.
 
 ### Chloropleth Visualization
 
