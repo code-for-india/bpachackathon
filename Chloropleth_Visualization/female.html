@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src='http://api.tiles.mapbox.com/mapbox.js/v1.0.0/mapbox.js'></script>
+    <link href='http://api.tiles.mapbox.com/mapbox.js/v1.0.0/mapbox.css' rel='stylesheet' />
+    <!--[if lte IE 8]>
+    <link href='http://api.tiles.mapbox.com/mapbox.js/v1.0.0/mapbox.ie.css' rel='stylesheet' >
+    <![endif]-->
+    <style>
+        body { margin:0; padding:0; }
+        #map { position:absolute; top:0; bottom:0; width:100%; }
+    </style>
+</head>
+<body>
+<style>
+    .map-legend i {
+        width: 18px;
+        height: 18px;
+        float: left;
+        margin-right: 8px;
+        opacity: 0.7;
+    }
+    .leaflet-popup-close-button {
+        display: none;
+    }
+    .leaflet-popup-content-wrapper {
+        pointer-events: none;
+    }
+</style>
+<div id='map'></div>
+<script type="text/javascript" src="district.js"></script>
+<script type='text/javascript'>
+    // Based on the Leaflet example from http://leafletjs.com/examples/choropleth.html
+
+    var map = L.mapbox.map('map', 'examples.map-vyofok3q').setView([22.82640491410469,73.942840682455595], 4);
+
+    var legend = L.mapbox.legendControl().addLegend(getLegendHTML()).addTo(map);
+
+    var popup = new L.Popup({ autoPan: false });
+
+    // statesData comes from the 'us-states.js' script included above
+    var statesLayer = L.geoJson(statesData,  {
+        style: getStyle,
+        onEachFeature: onEachFeature
+    }).addTo(map);
+
+    function getStyle(feature) {
+        return {
+            weight: 2,
+            opacity: 0.1,
+            color: 'black',
+            fillOpacity: 0.7,
+            fillColor: getColor(feature.properties.femaleVoters)
+        };
+    }
+
+    // get color depending on population density value
+    function getColor(d) {
+        return d > 2500000 ? '#8c2d04' :
+            d > 2000000  ? '#cc4c02' :
+            d > 1500000  ? '#ec7014' :
+            d > 1250000  ? '#fe9929' :
+            d > 1000000   ? '#fec44f' :
+            d > 750000   ? '#fee391' :
+            d > 500000   ? '#fff7bc' :
+            '#ffffe5';
+    }
+
+    function onEachFeature(feature, layer) {
+        layer.on({
+            mousemove: mousemove,
+            mouseout: mouseout,
+            click: zoomToFeature
+        });
+    }
+
+    var closeTooltip;
+
+    function mousemove(e) {
+        var layer = e.target;
+
+        popup.setLatLng(e.latlng);
+        popup.setContent('<h2>' + layer.feature.properties.districtName + '</h2>' +
+            layer.feature.properties.femaleVoters + ' total no. of female voters per district');
+
+        if (!popup._map) popup.openOn(map);
+        window.clearTimeout(closeTooltip);
+
+        // highlight feature
+        layer.setStyle({
+            weight: 3,
+            opacity: 0.3,
+            fillOpacity: 0.9
+        });
+
+        if (!L.Browser.ie && !L.Browser.opera) {
+            layer.bringToFront();
+        }
+    }
+
+    function mouseout(e) {
+        statesLayer.resetStyle(e.target);
+        closeTooltip = window.setTimeout(function() {
+            map.closePopup();
+        }, 100);
+    }
+
+    function zoomToFeature(e) {
+        map.fitBounds(e.target.getBounds());
+    }
+
+    function getLegendHTML() {
+        var grades = [500000, 750000, 1000000, 1250000, 1500000, 2000000, 2500000, 3000000],
+            labels = [],
+            from, to;
+
+        for (var i = 0; i < grades.length; i++) {
+            from = grades[i];
+            to = grades[i + 1];
+
+            labels.push(
+                '<i style="background:' + getColor(from + 1) + '"></i> ' +
+                from + (to ? '&ndash;' + to : '+'));
+        }
+
+        return '<span>Total no. of voters per district</span><br>' + labels.join('<br>');
+    }
+</script>
+</body>
+</html>
