@@ -12,7 +12,7 @@ Project Milestones and Progress
 | Assembly Data Analysis                      | Complete        |
 | Form 20 CSV Data Scraping                   | Complete        |
 | Form 20 CSV Data Analysis                   | Complete        |
-| Form 20 PDF Data Scraping                   | In Progress     |
+| Form 20 PDF Data Scraping                   | Complete        |
 | Constituency wise Complete Data Gathering   | Complete        |
 | Constituency wise Complete Data Scraping    | Complete        |
 | Constituency wise Complete Data Analysis    | Complete        |
