@@ -24,6 +24,16 @@ Project Milestones and Progress
 | Persisting data to backend MySQL db         | Complete        |
 | Exposing data through RESTful API           | Complete        |
 
+## Chloropleth Visualization
+
+We have drawn our visualization from the post electoral data and they are available below -
+
+1. Statewise total turn out data for Karnataka - [http://bpacdata.appspot.com]
+
+2. Statewise 'male' turn out data for Karnataka - [http://bpacdata.appspot.com/male.html]
+
+3. Statewise 'female' turn out data for Karnataka - [http://bpacdata.appspot.com/female.html]
+
 ## Features
 
 ### Voter Turnout Analysis on Assembly Constituency Data
