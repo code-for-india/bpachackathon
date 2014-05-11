@@ -48,4 +48,4 @@ Currently undergoing.
 
 ### Chloropleth Visualization
 
-Chloropleth is a visulization which shows the density on a map based on pre-defined values. We are aiming to show a constituency wise chloropleth map which will demonstrate the voter turnout area by area.
+Chloropleth is a visulization which shows the density on a map based on pre-defined values. We are aiming to show a constituency wise chloropleth map which will demonstrate the voter turnout area by area e.g. map visualizing total number of male voters, map visualizing total number of female voters, map visualizing total number of voters.
