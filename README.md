@@ -18,7 +18,7 @@ Project Milestones and Progress
 | Constituency wise Complete Data Analysis    | Complete        |
 | Constituency wise Voter Data Scraping       | Complete        |
 | Constituency wise Voter Data Analysis       | Complete        |
-| Fuzzy Matching and Anomaly Detection        | In Progress     |
+| Fuzzy Matching and Anomaly Detection        | Complete        |
 | Chloropleth Visualization                   | Complete        |
 | Porting project to AWS                      | Complete        |
 | Persisting data to backend MySQL db         | Complete        |
