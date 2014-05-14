@@ -19,7 +19,7 @@ Project Milestones and Progress
 | Constituency wise Voter Data Scraping       | Complete        |
 | Constituency wise Voter Data Analysis       | Complete        |
 | Fuzzy Matching and Anomaly Detection        | Complete        |
-| Chloropleth Visualization                   | Complete        |
+| Choropleth Visualization                   | Complete        |
 | Porting project to AWS                      | Complete        |
 | Persisting data to backend MySQL db         | Complete        |
 | Exposing data through RESTful API           | Complete        |
@@ -35,7 +35,7 @@ These are some of the insights we gained from the 2014 Election Data for Hebbal 
 
 3. Heatmap for candidates showing votes received per booth (Green refers to large vote count, Red refers to low vote count) [http://i.imgur.com/3cFE5pd.png]
 
-## Chloropleth Visualization
+## Choropleth Visualization
 
 We have drawn our visualization from the post electoral data and they are available below -
 
@@ -58,7 +58,7 @@ Each constituency can be divided into different parts. Each part have their own 
 
 ### Constituency wise Voter Data Analysis
 
-Along with the registered voter data, each PDF also gives detailed information (Name, Husband/Mother/Fathers Name, Address, Sex and Age) for each voter. We have scraped each PDF file and gathered detailed information on each voter. This data will be used later for anomaly detection by fuzzy matching.
+Along with the registered voter data, each PDF also gives detailed information (Name, Husband/Mother/Fathers Name, Address, Gender and Age) for each voter. We have scraped each PDF file and gathered detailed information on each voter. This data will be used later for anomaly detection by fuzzy matching.
 
 ### Fuzzy Matching and Anomaly Detection
 
