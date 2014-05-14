@@ -39,17 +39,14 @@ These are some of the insights we gained from the 2014 Election Data for Hebbal 
 
 We have drawn our visualization from the post electoral data and they are available below -
 
-1. Statewise total turn out data for Karnataka - [http://bpacdata.appspot.com]
+1. Statewise total number of voters for Karnataka - [http://bpacdata.appspot.com]
 
-2. Statewise 'male' turn out data for Karnataka - [http://bpacdata.appspot.com/male.html]
+2. Statewise total number of 'male' voters for Karnataka - [http://bpacdata.appspot.com/male.html]
 
-3. Statewise 'female' turn out data for Karnataka - [http://bpacdata.appspot.com/female.html]
+3. Statewise total number of 'female' voters for Karnataka - [http://bpacdata.appspot.com/female.html]
 
 ## Features
 
-### Voter Turnout Analysis on Assembly Constituency Data
-
-This analysis gives a voter turnout for both male and female. The turnout is available for each parliamentary constituency in every district.
 
 ### Form 20 Data Analysis
 
@@ -69,4 +66,4 @@ Used "fuzzywuzzy" library in Python for fuzzy string matching of voter data and 
 
 ### Chloropleth Visualization
 
-Chloropleth is a visulization which shows the density on a map based on pre-defined values. We are aiming to show a constituency wise chloropleth map which will demonstrate the voter turnout area by area e.g. map visualizing total number of male voters, map visualizing total number of female voters, map visualizing total number of voters.
+Choropleth map is a visulization that shows graded differences in shading inside defined areas on the map in order to indicate a quantity in those areas. We are aiming to show a constituency wise choropleth map which will demonstrate number of voters area by area e.g. map visualizing total number of voters, and no of male and female voters.
