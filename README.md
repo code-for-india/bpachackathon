@@ -1,7 +1,7 @@
 Voter Analytics for Bangalore
 =============================
 
-The aim of this project is to analyze post-poll data of Bangalore, especially in regions where the voter turnout is lower than estimated. Although there can be several discrepancies which leads to low voter turn out such as mistakes in electoral rolls, mismatched voter IDs and missing name in polling days. This project aims to provide a voter analytics system for post-poll analysis.
+The aim of this project is to analyze pre and post-poll data of Bangalore, especially in regions where the voter turnout is lower than estimated. Although there can be several discrepancies which leads to low voter turn out such as mistakes in electoral rolls, mismatched voter IDs and missing name in polling days. This project aims to provide a voter analytics system for post-poll analysis.
 
 Project Milestones and Progress
 -------------------------------
@@ -66,4 +66,4 @@ Used "fuzzywuzzy" library in Python for fuzzy string matching of voter data and 
 
 ### Chloropleth Visualization
 
-Choropleth map is a visulization that shows graded differences in shading inside defined areas on the map in order to indicate a quantity in those areas. We are aiming to show a constituency wise choropleth map which will demonstrate number of voters area by area e.g. map visualizing total number of voters, and no of male and female voters.
+Choropleth map is a visulization that shows graded differences in shading inside defined areas on the map in order to indicate a quantity in those areas. We are aiming to show a constituency wise choropleth map which will demonstrate number of voters area by area e.g. map visualizing total number of voters, and number of male and female voters.
